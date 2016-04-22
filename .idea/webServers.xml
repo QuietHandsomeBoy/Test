@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1d4edf0f-773e-4171-8954-be9876791010" name="localhost" url="http://10.3.61.91:8080">
+        <fileTransfer mountedRoot="C:\Users\hxpeng\Desktop\Test\Test" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
